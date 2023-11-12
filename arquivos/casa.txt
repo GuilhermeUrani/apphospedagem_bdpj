@@ -1,0 +1,1 @@
+1;1;Condominio;Jardim Mangueiral;CASA;2;2;true;B;3;100;200

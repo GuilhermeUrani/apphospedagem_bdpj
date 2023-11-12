@@ -1,0 +1,6 @@
+R;1;Guilherme Urani;05999591180;gui.urani@gmail.com
+CA;1;1;Condominio;Jardim Mangueiral;CASA;2;2;true;B;3;100;200
+CH;1;1;Condominio;Jardim Mangueiral;CHALE;2;2;B;3;100;300
+AP;1;1;Condominio;Jardim Mangueiral;APARTAMENTO;2;2;B;3;100;400
+R;2;Rodrigo Urani;05999591180;gui.urani@gmail.com
+CA;1;1;Condominio;Jardim Mangueiral;CASA;2;2;true;B;3;100;200
